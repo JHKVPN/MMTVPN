@@ -1,1 +1,15 @@
-{"vip_users":[{"id":"rr","month":"12","start_date":"2025-06-17"},{"id":"test","month":"12","start_date":"2025-06-17"}]}
+{
+  "vip_users": [
+    {
+      "id": "B2E28D666B48406899AA2EB088AC887C",
+      "month": "12",
+      "start_date": "2025-06-17"
+    },
+    {
+      "id": "test",
+      "month": "12",
+      "start_date": "2025-06-17"
+    }
+  ],
+  "last_updated": "2025-06-20 11:48:36"
+}
