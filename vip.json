@@ -1,11 +1,15 @@
 {
   "vip_users": [
     {
+      "id": "D3530DB1F7944812BE43C26BF6079CF0",
+      "month": "1",
+      "start_date": "2025-06-21"
+    },
+    {
       "id": "B64C092143DC4BD0874B04A12F9D6DB4",
       "month": "1",
       "start_date": "2025-06-21"
     }
   ],
-  "last_updated": "2025-06-21 13:35:27",
-  "version": "1.0.0"
+  "last_updated": "2025-06-21 13:38:27"
 }
