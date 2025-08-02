@@ -2,8 +2,8 @@
   "vip_users": [
     {
       "id": "328C9BF5592FE0DAD149E1D23DCEB9D7",
-      "month": "1",
-      "start_date": "2025-07-03"
+      "month": "0",
+      "start_date": "2025-07-31"
     },
     {
       "id": "DE7CBDFF89B7F7CC4CAA247A9E3D82B4",
@@ -101,5 +101,5 @@
       "start_date": "2025-08-02"
     }
   ],
-  "last_updated": "2025-08-02 17:06:12"
+  "last_updated": "2025-08-02 17:09:39"
 }
