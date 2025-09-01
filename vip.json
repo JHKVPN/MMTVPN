@@ -1,11 +1,6 @@
 {
   "vip_users": [
     {
-      "id": "328C9BF5592FE0DAD149E1D23DCEB9D7",
-      "month": "0",
-      "start_date": "2025-08-31"
-    },
-    {
       "id": "1BE1A64840229077440948A0E249411C",
       "month": "12",
       "start_date": "2025-07-24"
@@ -154,12 +149,7 @@
       "id": "E07B7887F77A310A0EFDD10AEE20E411",
       "month": "1",
       "start_date": "2025-08-30"
-    },
-    {
-      "id": "E79DC66B05B3C42071BC36420EB474D2",
-      "month": "1",
-      "start_date": "2025-09-01"
     }
   ],
-  "last_updated": "2025-09-01 11:08:01"
+  "last_updated": "2025-09-01 11:08:09"
 }
