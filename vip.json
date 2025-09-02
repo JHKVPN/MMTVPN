@@ -26,11 +26,6 @@
       "start_date": "2025-08-02"
     },
     {
-      "id": "E81F38CA2CAC9FBA378E90CAA7BA6325",
-      "month": "1",
-      "start_date": "2025-08-02"
-    },
-    {
       "id": "8637F1F58418B55869195E0683589D27",
       "month": "1",
       "start_date": "2025-09-11"
@@ -154,12 +149,7 @@
       "id": "JKVPN-2357AD96-4850F0E4-B345C34B",
       "month": "1",
       "start_date": "2025-09-02"
-    },
-    {
-      "id": "8BA083E2C13037B85C0BFE9502193CDD",
-      "month": "1",
-      "start_date": "2025-09-02"
     }
   ],
-  "last_updated": "2025-09-02 12:24:08"
+  "last_updated": "2025-09-02 12:25:12"
 }
