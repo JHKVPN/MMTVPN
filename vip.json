@@ -96,11 +96,6 @@
       "start_date": "2025-11-27"
     },
     {
-      "id": "324FFF8376E627429F75C487EEE794F1",
-      "month": "1",
-      "start_date": "2025-10-20"
-    },
-    {
       "id": "25CF41CB33260E230CDB599A16BD25C7",
       "month": "1",
       "start_date": "2025-11-08"
@@ -144,12 +139,7 @@
       "id": "01F5C090F455623245BD6EB68ECB30B1",
       "month": "1",
       "start_date": "2025-12-23"
-    },
-    {
-      "id": "38A1840F4B610CDDCC75FE0F2AA65A6F",
-      "month": "1",
-      "start_date": "2025-11-21"
     }
   ],
-  "last_updated": "2025-11-21 10:45:31"
+  "last_updated": "2025-11-21 10:45:38"
 }
