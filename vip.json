@@ -21,11 +21,6 @@
       "start_date": "2025-12-22"
     },
     {
-      "id": "5B71A2C73DCCAFDC1CCA1C1B7E001385",
-      "month": "1",
-      "start_date": "2025-11-14"
-    },
-    {
       "id": "FC35C3DE9649F27EF695E152BA89CA31",
       "month": "1",
       "start_date": "2025-11-15"
@@ -166,5 +161,5 @@
       "start_date": "2026-01-21"
     }
   ],
-  "last_updated": "2025-12-16 12:57:11"
+  "last_updated": "2025-12-16 13:06:25"
 }
