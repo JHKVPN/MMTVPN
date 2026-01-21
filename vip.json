@@ -6,11 +6,6 @@
       "start_date": "2026-01-03"
     },
     {
-      "id": "EDEC29522AA28AFB49DA1F74F0040CF2",
-      "month": "1",
-      "start_date": "2025-12-19"
-    },
-    {
       "id": "AD734EB64271BD692D589BA798A05EF6",
       "month": "1",
       "start_date": "2025-12-22"
@@ -106,5 +101,5 @@
       "start_date": "2026-01-16"
     }
   ],
-  "last_updated": "2026-01-16 20:48:07"
+  "last_updated": "2026-01-21 10:24:26"
 }
