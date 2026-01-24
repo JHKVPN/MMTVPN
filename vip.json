@@ -1,11 +1,6 @@
 {
   "vip_users": [
     {
-      "id": "0E0F99C39D9AA00E3FF4CFFB36C8587B",
-      "month": "1",
-      "start_date": "2025-12-17"
-    },
-    {
       "id": "328C9BF5592FE0DAD149E1D23DCEB9D7",
       "month": "1",
       "start_date": "2026-01-03"
@@ -13,7 +8,7 @@
     {
       "id": "EDEC29522AA28AFB49DA1F74F0040CF2",
       "month": "1",
-      "start_date": "2026-01-23"
+      "start_date": "2025-12-19"
     },
     {
       "id": "AD734EB64271BD692D589BA798A05EF6",
@@ -91,5 +86,5 @@
       "start_date": "2026-01-15"
     }
   ],
-  "last_updated": "2026-01-24 18:33:00"
+  "last_updated": "2026-01-24 18:33:15"
 }
