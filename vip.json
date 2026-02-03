@@ -31,11 +31,6 @@
       "start_date": "2026-01-21"
     },
     {
-      "id": "383088A3C5E5C1E9BE53CA0348A4987D",
-      "month": "1",
-      "start_date": "2025-12-29"
-    },
-    {
       "id": "DE7CBDFF89B7F7CC4CAA247A9E3D82B4",
       "month": "1",
       "start_date": "2026-01-15"
@@ -86,5 +81,5 @@
       "start_date": "2026-01-30"
     }
   ],
-  "last_updated": "2026-02-03 18:28:34"
+  "last_updated": "2026-02-03 18:28:41"
 }
